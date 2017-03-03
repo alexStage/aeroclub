@@ -1,0 +1,15 @@
+data/base_de_donnees/Principale.java.i
+data/test.txt.i
+data/base_de_donnees/Principale.form.i
+data/base_de_donnees/DetailsMembre.java.i
+data/base_de_donnees/AvionWindow.form.i
+data/base_de_donnees/InstructeurWindow.form.i
+data/base_de_donnees/InstructeurWindow.java.i
+data/aeroclub/Bdd.java.i
+data/base_de_donnees/DetailsMembre.form.i
+data/aeroclub/Parameters.java.i
+data/aeroclub/AeroClub.java.i
+data/aeroclub/ResultSetTableModel.java.i
+data/base_de_donnees/MembreWindow.form.i
+data/base_de_donnees/MembreWindow.java.i
+data/base_de_donnees/AvionWindow.java.i
